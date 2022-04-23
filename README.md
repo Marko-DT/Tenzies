@@ -1,2 +1,3 @@
 # Tenzies
-Created with CodeSandbox
+
+My take on a Japnies game
